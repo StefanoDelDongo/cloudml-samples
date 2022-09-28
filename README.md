@@ -1,3 +1,7 @@
+repos to be studied for : 
+cloudml-samples/tpu/templates/tpu_film_estimator/trainer.py 
+
+
 # AI Platform Training and Prediction
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
